@@ -37,7 +37,7 @@ HEADER="any-header-key" (your choice eg.sbdfjsd)
 
 - Clone the repository
 ```
-$ git clone https://github.com/anjupriya-v/snap-shot.git
+$ git clone https://github.com/anjupriya-v/website-using-nodejs-mongodb.git
 ```
 - Redirect to the cloned repo directory
 
@@ -49,5 +49,5 @@ npm install
 ``` 
 - Start the project 
 ```
-nodemon index
+node index
 ```
